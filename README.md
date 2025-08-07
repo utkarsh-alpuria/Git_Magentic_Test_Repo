@@ -1,3 +1,3 @@
-#Strealit Magentic Test Repo
+# Strealit Magentic Test Repo
 ---
 this is the README.md

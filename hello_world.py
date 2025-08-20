@@ -4,3 +4,6 @@ print("new command")
 print("in test-dev-3 branch")
 print("7th commit in test-dev")
 print("8th commit in test-dev-1")
+print("hello from main branch")
+print("7th commit in test-dev")
+

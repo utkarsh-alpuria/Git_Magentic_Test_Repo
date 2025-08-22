@@ -1,3 +1,3 @@
-# Strealit Magentic Test Repo
+# Git Magentic Test Repo
 ---
-this is the README.md
+this is the README.md for Git Magentic Test Repo.

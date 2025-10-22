@@ -1,13 +1,19 @@
-print("Hello World")
-print("hi")
-print("new command")
-print("in test-dev-3 branch")
-print("7th commit in test-dev")
-print("8th commit in test-dev-1")
-print("hello from main branch")
-print("7th commit in test-dev")
-print("9th commit in test-dev-3")
-print("conflict check from main")
-print("conflict check from test-dev-3, by utkarsh")
-print("conflict check 2 from test-dev-3, by utkarsh")
-print("pr check from test-dev-3, by utkarsh")
+# Modification: Comment added as per user request.
+# This script contains multiple print statements for testing and demonstrating output
+def main():
+    print("Hello World")
+    print("hi")
+    print("new command")
+    print("in test-dev-3 branch")
+    print("7th commit in test-dev")
+    print("8th commit in test-dev-1")
+    print("hello from main branch")
+    print("7th commit in test-dev")
+    print("9th commit in test-dev-3")
+    print("conflict check from main")
+    print("conflict check from test-dev-3, by utkarsh")
+    print("conflict check 2 from test-dev-3, by utkarsh")
+    print("pr check from test-dev-3, by utkarsh")
+
+if __name__ == "__main__":
+    main()
